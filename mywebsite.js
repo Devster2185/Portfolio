@@ -18,3 +18,9 @@ function showBlueContent() {
     'Instagram and Tiktok : @vhprod21 '
 }
 
+
+function showYellowContent() {
+    document.getElementById('yellow-content').textContent =
+    'Videos and pictures edition'
+}
+
